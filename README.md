@@ -19,8 +19,6 @@ notes/
 │── script.js # JavaScript logic
 │── LICENSE # License information
 │── README.md # Project documentation
-
-
 ---
 
 ## 🛠️ Installation & Usage  
