@@ -23,12 +23,8 @@ notes/
 
 ## 🛠️ Installation & Usage  
 1. Clone the repository:  
-   ```bash
-
 
 Open index.html in your browser.
-
-
 📖 License
 
 This project is licensed under the MIT License.
